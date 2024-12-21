@@ -1,4 +1,0 @@
-Once the server is running, the APIs will be available at:
-
-Get Customer Transactions: http://localhost:3000/api/transactions/:customerId
-Get Related Customers: http://localhost:3000/api/related-customers/:customerId
